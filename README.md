@@ -68,11 +68,6 @@ Result plots are in the thesis (Chapter 4).
 
 ---
 
-## Running the model
-
-1. Open MATLAB R2024a (with Simulink and Simscape Fluids).
-2. Run `model_script.m` to populate the workspace parameters.
-3. Open and run `EV_TMS_MODEL.slx`.
 
 **Note on dependencies:** the model takes an FTP75 drive-cycle input and draws on standard reference datasets (e.g. MathWorks' EV battery cooling example data). These third-party datasets aren't redistributed here — obtain them from their original sources if you want to reproduce the run end-to-end.
 
